@@ -47,12 +47,3 @@
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueRodriguesV&show_icons=true&theme=merko&hide_border=true" alt="Henrique's github stats" /></a> 
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRodriguesV&layout=compact&theme=merko&hide_border=true" /></a> 
 </div>
-
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeAaron-Dev/CodeAaron-Dev/output/github-contribution-grid-snake.svg">
-</picture>
