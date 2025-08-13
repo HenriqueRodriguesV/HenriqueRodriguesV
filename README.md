@@ -6,6 +6,8 @@
 
 <p align="center">Meu nome é Henrique Rodrigues Vespasiano, tenho 18 anos e sou apaixonado por Data Science e áreas relacionadas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na FIAP e trabalho como estagiário em Infraestrutura na mesma instituição.<br><br>Tenho interesse em aplicar técnicas de ciência de dados, machine learning, análise de dados e inteligência artificial para resolver problemas reais e otimizar processos.<br><br>Se você tem algum projeto interessante ou gostaria de trocar ideias, fique à vontade para entrar em contato!</p>
 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:henriquerodriguesv18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/henrique-rodrigues-vespasiano-532722233/)
 #
 
 <h6 align="left">Stack</h6>
