@@ -6,11 +6,9 @@
 
 <p align="center">Meu nome é Henrique Rodrigues Vespasiano, tenho 18 anos e sou apaixonado por Data Science e áreas relacionadas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na FIAP e trabalho como estagiário em Infraestrutura na mesma instituição.<br><br>Tenho interesse em aplicar técnicas de ciência de dados, machine learning, análise de dados e inteligência artificial para resolver problemas reais e otimizar processos.<br><br>Se você tem algum projeto interessante ou gostaria de trocar ideias, fique à vontade para entrar em contato!</p>
 
-###
+#
 
-<h6 align="left">----Stack</h6>
-
-###
+<h6 align="left">Stack</h6>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -34,11 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
+#
 
-<h6 align="left">----SQL e CLOUD</h6>
+<h6 align="left">SQL e CLOUD</h6>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -50,11 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-###
+#
+<h6 align="left">Outras</h6>
 
-<h6 align="left">----Outras</h6>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -72,7 +67,7 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
 </div>
 
-###
+#
 
 <br clear="both">
 
@@ -80,3 +75,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=HenriqueRodriguesV&hide_title=true&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenriqueRodriguesV&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
