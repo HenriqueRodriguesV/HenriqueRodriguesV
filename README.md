@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:henriquerodriguesv18@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/henrique-rodrigues-vespasiano-532722233/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00000color=FFF)](mailto:henriquerodriguesv18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00000color=FFF)](https://www.linkedin.com/in/henrique-rodrigues-vespasiano-532722233/)
 
 </div>
 
