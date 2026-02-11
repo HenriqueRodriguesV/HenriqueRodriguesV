@@ -1,58 +1,34 @@
-# 👋 Olá, Seja bem vindo!
+# Henrique Rodrigues  
+**Data Science | Machine Learning | Estatística Aplicada**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
-📊 Focado em Data Science, Machine Learning e Modelagem Estatística  
+Estudante de Análise e Desenvolvimento de Sistemas (FIAP) com foco em modelagem estatística, análise de dados e desenvolvimento de modelos preditivos.
 
-Transformo dados em decisões estratégicas por meio de análise estatística, modelagem preditiva e engenharia de dados aplicada.
-
----
-
-## 🚀 Sobre mim
-
-- 📈 Experiência com análise exploratória de dados (EDA)
-- 📊 Modelagem estatística e Regressão Linear
-- 🤖 Machine Learning supervisionado e redes neurais (MLP, LSTM)
-- 🔎 Manipulação, limpeza e transformação de dados
-- ⚙️ Construção de APIs e aplicações orientadas a dados
+Atuo na transformação de dados em insights estratégicos por meio de regressão linear, análise exploratória, validação de modelos e séries temporais.
 
 ---
 
-## 🧠 Fundamentos
+## Competências Técnicas
 
-- Estatística Descritiva e Inferencial  
-- Probabilidade  
-- Regressão Linear  
-- Séries Temporais  
-- Validação e métricas de modelos  
+**Linguagens:** Python • SQL  
 
----
+**Data Science:**  
+Pandas • NumPy • scikit-learn • Regressão Linear • Estatística • Séries Temporais • MLP • LSTM  
 
-## 🛠️ Stack Técnica
+**Bancos de Dados:**  
+PostgreSQL • OracleDB • MySQL • NoSQL  
 
-### 📌 Linguagens
-Python • SQL •
-
-### 📌 Data Science & ML
-Pandas • NumPy • scikit-learn • Modelos de Regressão • LSTM • MLP  
-
-### 📌 Banco de Dados
-**Relacionais:** PostgreSQL • OracleDB • MySQL • SQLite
-**Não Relacionais:** NoSQL (MongoDB – estudos e aplicações)  
-
-### 📌 Ferramentas
+**Ferramentas:**  
 Power BI • FastAPI • Docker • Git  
 
 ---
 
-## 📚 Atualmente aprofundando em
-- Engenharia de Dados para Machine Learning  
-- Deploy de modelos em produção  
-- Otimização e tuning de modelos  
+## Objetivo
+
+Desenvolver soluções orientadas a dados com rigor analítico, clareza estatística e aplicação prática em ambientes reais.
 
 ---
 
-## 📫 Vamos nos conectar?
+## Contato
 
-🔗 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
-📧 E-mail: henriquerodriguesv18@gmail.com  
-
+LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
+Email: henriquerodriguesv18@gmail.com
