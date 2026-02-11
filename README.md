@@ -1,34 +1,45 @@
-# Henrique Rodrigues  
-**Data Science | Machine Learning | Estatística Aplicada**
-
-Estudante de Análise e Desenvolvimento de Sistemas (FIAP) com foco em modelagem estatística, análise de dados e desenvolvimento de modelos preditivos.
-
-Atuo na transformação de dados em insights estratégicos por meio de regressão linear, análise exploratória, validação de modelos e séries temporais.
+<p align="center">
+  <h1 align="center">Henrique Rodrigues</h1>
+  <p align="center">
+    Data Science • Machine Learning • Modelagem Estatística
+  </p>
+</p>
 
 ---
 
-## Competências Técnicas
+<p align="center">
+Transformando dados em evidência.<br>
+Modelando incerteza. Gerando decisão.
+</p>
 
-**Linguagens:** Python • SQL  
+---
 
-**Data Science:**  
-Pandas • NumPy • scikit-learn • Regressão Linear • Estatística • Séries Temporais • MLP • LSTM  
+### Sobre
 
-**Bancos de Dados:**  
+Graduando em Análise e Desenvolvimento de Sistemas (FIAP), com foco em Ciência de Dados aplicada a problemas reais.
+
+Atuação em análise exploratória, regressão linear, modelagem estatística e desenvolvimento de modelos supervisionados com base matemática sólida.
+
+---
+
+### Stack
+
+**Python & Dados**  
+Pandas • NumPy • scikit-learn • Statsmodels • Matplotlib  
+
+**Modelagem**  
+Regressão Linear • Estatística Inferencial • Séries Temporais • MLP • LSTM  
+
+**Bancos de Dados**  
 PostgreSQL • OracleDB • MySQL • NoSQL  
 
-**Ferramentas:**  
+**Ferramentas**  
 Power BI • FastAPI • Docker • Git  
 
 ---
 
-## Objetivo
-
-Desenvolver soluções orientadas a dados com rigor analítico, clareza estatística e aplicação prática em ambientes reais.
-
----
-
-## Contato
-
-LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI  
-Email: henriquerodriguesv18@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Rodrigues-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+</p>
