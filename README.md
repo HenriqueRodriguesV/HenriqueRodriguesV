@@ -39,7 +39,8 @@ Power BI • FastAPI • Docker • Git
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Henrique%20Rodrigues-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
+  Conecte-se comigo
+  <br><br>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">LinkedIn</a><br>
+  <a href="mailto:henriquerodriguesv18@gmail.com">henriquerodriguesv18@gmail.com</a>
 </p>
